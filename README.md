@@ -5,8 +5,8 @@ This project involves building a Decision Tree classifier to predict whether a c
 
 ## Repository Structure
 
-Term-Deposit-Classifier//
-├── data//
+Term-Deposit-Classifier/
+├── data/
 │ └── bank_marketing_data.csv
 └── classifier.ipynb
 
